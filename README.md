@@ -1,4 +1,4 @@
-# The TREC 2019 Replicable Run Initiative (RRI)
+# The TREC 2019 Replicable Runs Initiative (RRI)
 
 The premise behind the TREC Replicable Runs Initiative (RRI) is that submitted TREC runs should be replicable.
 That is, one team should be able to replicate another team's runs, as the prelude to further analysis, improvements, etc.
